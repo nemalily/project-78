@@ -1,0 +1,20 @@
+  body{
+      background-color: aliceblue;
+      color: aqua;
+      border: solid;
+  }
+  h1{
+      color: cadetblue;
+      text-decoration: underline;
+  }
+  h4{
+      color: rgb(75, 131, 235);
+  }
+  
+  #Nextbutton{
+      background-color: cornflowerblue;
+      font-weight: bold;
+      color: rgb(33, 88, 88);
+      border-radius: 0px;
+      margin-bottom: 10px;
+  }
